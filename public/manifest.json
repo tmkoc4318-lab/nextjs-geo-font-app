@@ -1,0 +1,29 @@
+{
+  "name": "Annpurna Traders - Business Management",
+  "short_name": "Annpurna Traders",
+  "description": "Complete business management solution for cement and construction material suppliers",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/4e82acad-0abe-490c-8690-001aa2390016.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/1c68cb51-db83-41fd-bf50-653b887fecf3.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["business", "productivity", "finance"],
+  "lang": "en-IN",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}
